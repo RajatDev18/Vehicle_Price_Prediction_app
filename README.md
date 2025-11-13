@@ -8,3 +8,6 @@ This project uses a custom-trained regression model and a clean UI for real-time
 This app allows users to enter vehicle attributes such as make, model, fuel type, body style, transmission, mileage, turbo, fuel system, and more — and receive an instant predicted price.
 
 The ML model is trained using a cleaned dataset with engineered features and preprocessing
+
+This project is deployed on render 
+link: https://vehicle-price-prediction-app.onrender.com/
